@@ -8,7 +8,7 @@
 form MFCCs extraction
 	integer Number_of_coefficients 12
 	positive Window_length 0.015
-	boolean save_MFCC_as_a_table 0
+	boolean save_MFCC_as_a_table 1
 endform
 
 ## cleaning Praat's objects window before workflow
